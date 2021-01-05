@@ -1,6 +1,7 @@
-<style type="txt/css">
-  .inner header h1:
+<style>
+  .inner header h1 {
     display:none;
+  }
 </style>
 # ScreamingGoatSoftware
 
