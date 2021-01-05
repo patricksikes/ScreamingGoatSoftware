@@ -1,3 +1,7 @@
+<style type="txt/css">
+  .inner header h1:
+    display:none;
+</style>
 # ScreamingGoatSoftware
 
 Welcome to Screaming Goat Software.  
