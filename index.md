@@ -10,9 +10,9 @@ Welcome to Screaming Goat Software.  Owner Patrick Sikes has 20+ years of experi
 
 <table width="100%" cellpadding="10">
   <tr>
-    <th style="font-style:bold;">RVingHub.com</th>
-    <th style="font-style:bold;">Professional Performance Management</th>
-    <th style="font-style:bold;">Custom Software for your Business</th>
+    <th style="font-style:bold;text-align:center;">RVingHub.com</th>
+    <th style="font-style:bold;text-align:center;">Professional Performance Management</th>
+    <th style="font-style:bold;text-align:center;">Custom Software for your Business</th>
   </tr>
   <tr>
     <td colspan="3"><hr /></td>
