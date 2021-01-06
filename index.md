@@ -3,9 +3,8 @@
     display:none;
   }
 </style>
-# ScreamingGoatSoftware
 
-Welcome to Screaming Goat Software.  
+Welcome to Screaming Goat Software.  Owner Patrick Sikes has 20+ years of experience building business applications for large and small companies around the US.  Specializing in ASP.NET MVC Full Stack applications with service layer integrations and cloud based hosting services, Screaming Goat Software can help you find the solution you need for your business.  We have several projects in the works including a self managing micro-bloging site for RVers and a Best in Class Performance Management package you can use to retain your top talent.
 
 ## Our Projects
 
