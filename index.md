@@ -25,10 +25,10 @@ Welcome to Screaming Goat Software.  Owner Patrick Sikes has 20+ years of experi
 </table>
 
 <script>
-      await octokit.request('GET /repos/patricksikes/screaminggoatsoftware/issues', {
-      owner: 'octocat',
-      repo: 'hello-world'
-    })
+  await octokit.request('GET /repos/{owner}/{repo}/issues', {
+    owner: 'patricksikes',
+    repo: 'ScreamingGoatSoftware'
+  })
 </script>
   
 
