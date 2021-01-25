@@ -19,3 +19,7 @@ Welcome to Screaming Goat Software.
     <td>With more than 20 years of business software development, we can work with you to determine your requirements, find simple solutions, then build, test, and host a solution for your needs.</td>
   </tr>
 </table>
+
+<hr />
+
+
