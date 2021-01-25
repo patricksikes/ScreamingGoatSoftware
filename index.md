@@ -1,5 +1,5 @@
 
-Welcome to Screaming Goat Software.  We provide Software as a Service (ie. SaaS or cloud based software) as well a custom buisness solutions to our customers.  Contact <a href="patricksikes@gmail.com">Patrick Sikes</a> for information on any of our ongoing projects or to talk about your custom software needs.
+Welcome to Screaming Goat Software.  We provide Software as a Service (ie. SaaS or cloud based software) as well a custom buisness solutions to our customers.  Contact <a href="mailto:patricksikes@gmail.com">Patrick Sikes</a> for information on any of our ongoing projects or to talk about your custom software needs.
 
 ## Our Current Projects
 
