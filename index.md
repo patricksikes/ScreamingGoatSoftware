@@ -1,5 +1,6 @@
 
 Welcome to Screaming Goat Software.  We provide Software as a Service (ie. SaaS or cloud based software) as well a custom buisness solutions to our customers.  Contact <a href="mailto:patricksikes@gmail.com">Patrick Sikes</a> for information on any of our ongoing projects or to talk about your custom software needs.
+<div style="border:0;  padding: 3px; margin 3px; float:right;"><img src="http://placegoat.com/200/200" alt="A random goat for your ejoyment by the placegoat.com api." />
 
 ## Our Current Projects
 
