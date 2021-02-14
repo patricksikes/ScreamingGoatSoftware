@@ -4,7 +4,9 @@
 
 <h3>Resume</h3>
 Patrick Dale Sikes
+
 .NET Programmer, Architect & Strategist
+
 email: patricksikes@gmail.com
 
 <h2>Responsive, Knowledgeable, Results - Oriented Developer</h2>
