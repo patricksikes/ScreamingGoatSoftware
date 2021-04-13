@@ -5,16 +5,18 @@ with you to find the issues that need to be solved, brainstorm solutions, build 
 <p></p>
 <h5>Examples of past solutions:</h5>
 <ul>
-  <li>Automation of repedative tasks like form data entry.</li>
+  <li>Automation of repetitive tasks like form data entry.</li>
   <li>Creation of web based tools to manage order entry, processing, and fullfilment.</li>
   <li>Working with your team to impliment an Agile Methodology for your workflow, be it software development, onboarding, or any other process.</li>
 </ul>
 <p></p>
 <h5>Technologies</h5>
 <ul>
-  <li>ASP.NET Web Sites using MVC & Database servers</li>
+  <li>ASP.NET Web Sites using MVC (including .NET Core) & Database servers</li>
+  <li>REST Micro Services</li>
   <li>Front end web development using HTML, CSS, and JavaScript</li>
   <li>Python automation scripts</li>
+  <li>Website hosting including ASP.NET Core applications in Unix environments</li>
 </ul>
 <p></p>
 <p>To get started, <a href="/contactus.html">Contact Patrick Today</a> to setup a free initial conslutation to discuss your business needs.  
