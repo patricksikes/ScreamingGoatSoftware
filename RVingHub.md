@@ -1,7 +1,7 @@
 <h2>Coming Soon - RVingHub.com</h2>
 
 <p>
-   <img src="https://github.com/patricksikes/ScreamingGoatSoftware/blob/3c50ffa11a1a51ef79e63a7b0f26f25e35b19f27/revesion.jpg" style="height:200px; width:200px; float:right; margin: 0 0 8px 8px;" />
+   <img src="/revesion.jpg" style="height:200px; width:200px; float:right; margin: 0 0 8px 8px;" />
    RVingHub.com is in development!  We are building a social mashup site with currated and original content for those who are living the full time RV life.  Features will include:
 </p>
 <p></p>
